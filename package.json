@@ -18,6 +18,8 @@
   "homepage": "https://github.com/zvimoe/node-js-new-project#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "mongodb-autoincrement": "^1.0.1",
+    "mongoose": "^4.13.10",
     "mysql": "^2.15.0"
   }
 }
